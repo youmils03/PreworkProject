@@ -2,10 +2,10 @@
 ## Fun Widgets
 
 ### App Description
-`TODO://` This app demonstrates a basic understanding of Xcode and Swift, as it entails features to change the text, view color, and text color and to collect user input.
+ This app demonstrates a basic understanding of Xcode and Swift, as it entails features to change the text, view color, and text color and to collect user input.
 
 ### App Walk-though
-`TODO://` <img src="https://imgur.com/MRyRw8W" width=200><br>
+ <img src="https://i.imgur.com/MRyRw8W.gif" width=200><br>
 
 ### Required User Stories
 - [x] 1. User sees custom text in a label - Hello from {name}!
